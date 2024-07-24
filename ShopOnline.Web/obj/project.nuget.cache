@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cr4Mi5K6row2b5Bnjl+gYOLcUukaw0eM1yklVmsM7k+GjNHHJ76cO40JkHceb/b8RnTjUnhkrZubZzmVkHf9Pg==",
+  "dgSpecHash": "/cNRnMFd6aP/qt9yVnM2EYHmjtdZb7PlOVeInIWkREmFuvEuJXOkMM5CukysH48dRvPgTrwSFYnnXkaP7lH3HA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Manar\\source\\repos\\ShopOnlineSolution\\ShopOnline.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,7 @@
     "C:\\Users\\Manar\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Manar\\.nuget\\packages\\microsoft.jsinterop\\7.0.7\\microsoft.jsinterop.7.0.7.nupkg.sha512",
     "C:\\Users\\Manar\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.7\\microsoft.jsinterop.webassembly.7.0.7.nupkg.sha512",
+    "C:\\Users\\Manar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Manar\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\Manar\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Manar\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",

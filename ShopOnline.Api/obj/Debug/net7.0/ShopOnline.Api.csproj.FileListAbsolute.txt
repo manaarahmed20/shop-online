@@ -83,3 +83,4 @@ C:\Users\Manar\source\repos\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net7.0\M
 C:\Users\Manar\source\repos\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Manar\source\repos\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\Manar\source\repos\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Manar\source\repos\ShopOnlineSolution\ShopOnline.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
